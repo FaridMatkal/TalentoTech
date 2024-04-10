@@ -1,0 +1,85 @@
+{
+    "cities": [
+      {
+        "name": "New York",
+        "country": "United States",
+        "population": "8,336,817",
+        "language": "English",
+        "currency": "US Dollar",
+        "points_of_interest": ["Statue of Liberty", "Times Square", "Central Park"]
+      },
+      {
+        "name": "London",
+        "country": "United Kingdom",
+        "population": "8,982,000",
+        "language": "English",
+        "currency": "British Pound",
+        "points_of_interest": ["Big Ben", "Tower of London", "Westminster Abbey"]
+      },
+      {
+        "name": "Paris",
+        "country": "France",
+        "population": "2,148,271",
+        "language": "French",
+        "currency": "Euro",
+        "points_of_interest": ["Eiffel Tower", "Louvre Museum", "Notre Dame Cathedral"]
+      },
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "population": "13,515,271",
+        "language": "Japanese",
+        "currency": "Japanese Yen",
+        "points_of_interest": ["Tokyo Skytree", "Imperial Palace", "Shibuya Crossing"]
+      },
+      {
+        "name": "Rome",
+        "country": "Italy",
+        "population": "2,873,494",
+        "language": "Italian",
+        "currency": "Euro",
+        "points_of_interest": ["Colosseum", "Vatican City", "Trevi Fountain"]
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia",
+        "population": "5,367,206",
+        "language": "English",
+        "currency": "Australian Dollar",
+        "points_of_interest": ["Sydney Opera House", "Sydney Harbour Bridge", "Royal Botanic Gardens"]
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "population": "15,029,231",
+        "language": "Turkish",
+        "currency": "Turkish Lira",
+        "points_of_interest": ["Blue Mosque", "Hagia Sophia", "Grand Bazaar"]
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "population": "8,918,653",
+        "language": "Spanish",
+        "currency": "Mexican Peso",
+        "points_of_interest": ["Zócalo", "National Museum of Anthropology", "Basilica of Our Lady of Guadalupe"]
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "population": "6,498,837",
+        "language": "Portuguese",
+        "currency": "Brazilian Real",
+        "points_of_interest": ["Christ the Redeemer", "Sugarloaf Mountain", "Ipanema Beach"]
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "population": "9,963,927",
+        "language": "Korean",
+        "currency": "South Korean Won",
+        "points_of_interest": ["Gyeongbokgung Palace", "Seoul Tower", "Namdaemun Market"]
+      }
+    ]
+  }
+  
